@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DiceRollerApp</string>
+    <string name="title">Zar Atma Uygulaması</string>
+    <string name="rollButtonString">ZAR AT</string>
+    <string name="deleteButtonString">TEMİZLE</string>
+    <string name="deleted">TEMİZLENDİ</string>
+    <string name="rolled">ZAR ATILDI</string>
+</resources>
